@@ -14,4 +14,5 @@
 
 <h1>Working Experience</h1>
 
-- <h2>PEAAS – A FINABLR COMPANY, VADODARA</h2><h3>QUALITY ASSURANCE ENGINEER INTERN</h3>
+- <h2>PEAAS – A FINABLR COMPANY, VADODARA</h2>
+<p><b><i>QUALITY ASSURANCE ENGINEER INTERN,</i></b> During my internship our main responsibility was to develop the software Testing skills and also learned different types of testing with Agile Methodology and Scrum Framework . Working with the professionals the result is that we are able to Test the system accurately under proper guidance earlier then the estimation Time.</p>
