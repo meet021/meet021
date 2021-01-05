@@ -21,7 +21,8 @@
 <p><b><i>SOFTWARE TESTING ENGINEER,</i></b> In company our main responsibility is to test the under development projects through various different Automation as well as Manual testing process. While performing testing my main motive is the project should be pixel perfect and also all the functionalities should be fully functional.</p>
 
 <h1>Education</h1>
-<h2>B.Tech in Information Technology from Dharmsinh Desai University, Nadiad</h2>
+
+- <h2>B.Tech in Information Technology from Dharmsinh Desai University, Nadiad</h2>
 
 <h1>Technical Skills</h1>
 
