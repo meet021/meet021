@@ -24,6 +24,7 @@
 - <h2>B.Tech in Information Technology from Dharmsinh Desai University, Nadiad</h2>
 
 <h1>Technical Skills</h1>
+
 - Software Testing Types. (functional, Non – Functional).
 - Manual Testing.
 - API Testing (GraphQL, POSTMAN).
