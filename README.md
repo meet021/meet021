@@ -12,3 +12,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Life is always about getting Solutions of Problem.
 
+<h1>Working Experience</h1>
+
+- <h2>PEAAS – A FINABLR COMPANY, VADODARA</h2><h3>QUALITY ASSURANCE ENGINEER INTERN</h3>
