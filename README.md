@@ -1,6 +1,6 @@
 <img src="https://github.com/meet021/meet021/blob/main/image/meet.jpg" />
 
-### Meet Sindhal👋
+<h1>Meet Sindhal👋</h1>
 
 
 - 🔭 I’m currently working as Software Testing Engineer at [Crest Data System](https://www.crestdatasys.com/)
