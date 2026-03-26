@@ -1,4 +1,4 @@
-<img src="https://github.com/meet021/meet021/blob/main/image/meet.jpg" />
+<img src="https://github.com/meet021/meet021/blob/main/image/Profile%20Image.jpeg" />
 
 <h1>Meet Sindhal 👋</h1>
 
