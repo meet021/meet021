@@ -108,13 +108,12 @@ Unlike most AI tinkerers:
 - Now applied to **AI output evaluation and prompt regression testing**
 
 ---
-
 ## 🏆 Featured Projects
 
+- 🥇 **Meeting Intelligence Agent** — Ranked **#60 out of 2,795 globally (Top 2.6%)** at the lablab.ai AI Agent Olympics 2026 — shipped in 48 hours with 155 points
 - 📑 **GSTR-1 PRO** — India GST filing desktop app, built with chartered accountants
 - 🇺🇸 **US Tax Pro System (Phase 1)** — Sales Tax + 1099 filing, built with a practicing US CPA
 - 💰 **Vyaktigat Khata** — privacy-first personal accounting software (offline, one-click launcher)
-- 🤝 **Meeting Intelligence Agent** — lablab.ai AI Agent Olympics hackathon, shipped in 48 hours
 - 📞 **Olivia & Claira** — AI voice cold-calling agents on VAPI with IVR detection and human-like tone
 - 🎯 **Internal Lead Generation System** — AI-powered US business lead tool feeding VAPI workflows
 
@@ -139,13 +138,12 @@ Unlike most AI tinkerers:
 - Domain Software Development  
 - AI Output Evaluation & Regression Testing  
 
----
 
-## 📜 Certifications
+## 📜 Certifications & Recognition
 
+- 🥇 **lablab.ai AI Agent Olympics 2026** — Ranked **#60 / 2,795 globally** (Top 2.6%) with 155 points.
 - **AI Generalist Certification** — Growth School  
-- **ISTQB® Certified Tester** — Foundation Level (CTFL)  
-- **lablab.ai AI Agent Olympics Participant** — May 2026  
+- **ISTQB® Certified Tester** — Foundation Level (CTFL)
 
 ---
 
