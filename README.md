@@ -2,145 +2,173 @@
 
 <h1>Meet Sindhal 👋</h1>
 
-🚀 Tech-Driven E-commerce Operator | 📈 Meta Ads Creative Strategist | 🤖 AI Systems Builder  
+🤖 AI Generalist | 🛠 AI Product Builder | 🎙 Voice Agent Specialist
 
-I don’t just create ads — I build **scalable eCommerce growth systems**.
+I don't just talk about AI — I **ship working AI products** that solve real business problems.
 
 ---
 
 ## 🧠 About Me
 
-I started my career in **software quality assurance**, learning how systems break, how users behave, and how to optimize for performance.
+I started my career in **software quality assurance**, where I learned how systems break, how users behave, and how to engineer for reliability.
 
-Today, I apply that same thinking to eCommerce:
+Today, I apply that same systems thinking to **AI product development**:
 
-👉 Testing  
-👉 Analyzing  
-👉 Scaling what works  
+👉 Identify the real problem  
+👉 Design the right AI solution  
+👉 Ship working products end-to-end
 
 I combine:
 
-**Tech + Marketing + Operations**
+**AI Tools + Product Thinking + Domain Collaboration**
 
 Which means:
 
-✔ I don’t just generate traffic  
-✔ I build systems that turn traffic into revenue  
+✔ I don't just experiment with AI — I deliver products that actually work in the real world  
+✔ I work closely with domain experts (CAs, US CPAs, business owners) to solve their actual problems  
+✔ My strength is **product design and prompt engineering**, not deep coding
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Build
 
-- 📈 Meta Ads (Facebook & Instagram) — performance-driven creatives
-- 🎬 High-converting video ads (UGC, short-form, hooks-based)
-- 🤖 AI-generated creatives (Runway, Midjourney, automation workflows)
-- 🧪 Creative testing systems (angles, hooks, variations)
-- 🛍 Shopify & product page visual optimization
-- ⚙️ Backend systems for scaling D2C brands
+- 🎙 **AI Voice Agents** on VAPI — outbound calling, IVR detection, phase-based call flows
+- 💬 **Conversational AI** — WhatsApp bots, chat assistants, intelligent auto-reply systems
+- 📊 **Domain Software** — accounting and tax-compliance apps for India and US markets
+- 🤖 **AI Workflow Automation** — autonomous lead generation, multi-step LLM pipelines
+- 🔧 **Prompt Engineering** — system prompt architecture, guardrails, persona design
+- ⚡ **Hackathon-Speed Builds** — production-ready AI products in 48-hour windows
 
 ---
 
 ## ⚡ My Edge
 
-Unlike most freelancers:
+Unlike most AI tinkerers:
 
-❌ They focus on editing  
-❌ They focus on design  
+❌ They build demos that don't ship  
+❌ They chase frameworks instead of solving problems  
 
-👉 I focus on **performance + systems**
+👉 I focus on **shipped products + real users**
 
-- I think in **funnels, not just creatives**
-- I optimize for **CTR, retention, and conversions**
-- I build **repeatable creative systems**, not one-off ads
+- I think in **business outcomes, not just technical novelty**
+- I collaborate with **domain experts from day one**
+- I use AI tools (Claude Code, Cursor, ChatGPT) to **move from idea to shipped product fast**
 
 ---
 
 ## 🧩 My Approach
 
-- Start with **customer psychology**
-- Build **scroll-stopping hooks (first 3 sec)**
-- Structure ads: **Hook → Problem → Solution → Payoff**
-- Create **multiple variations for testing**
-- Scale what works using **data, not guesswork**
+- Start with the **domain expert**, not the technology
+- Map the **real workflow** before writing a single prompt
+- Design **system prompts in layers** — identity, control flow, guardrails, tone
+- Build **fallbacks for when AI gets it wrong** (because it will)
+- Ship fast, **iterate based on real user feedback**
 
 ---
 
 ## 🛠 Tools & Stack
 
-- Adobe Premiere Pro  
-- After Effects  
-- CapCut  
-- Canva  
-- Runway ML  
-- Midjourney  
-- ChatGPT (hooks, scripts, ideation)
+**AI Platforms**
+- OpenAI (ChatGPT, GPT-4o)
+- Anthropic Claude
+- Google Gemini
+- Perplexity
+
+**Voice AI**
+- VAPI
+- ElevenLabs
+- Twilio / Telnyx / Vonage
+
+**AI-Assisted Development**
+- Claude Code
+- Cursor
+- ChatGPT
+
+**Automation & Orchestration**
+- n8n
+- Make
+- Zapier
+
+**Programming (working knowledge)**
+- Python, JavaScript, HTML / CSS, SQL
 
 ---
 
 ## 📈 Experience
 
-### 🏢 CEO — Sangam Infoanalytics
-- Leading an AI-driven eCommerce solutions company  
-- Focus: Shopify + Meta Ads + scaling systems  
+### 🏢 Independent AI Builder & Consultant — Sangam Infoanalytics
+- Serving SMB and US-market clients with custom AI products  
+- Built and shipped 5+ production AI systems in the last 6 months  
 
 ### 🚀 Founder — Convergio Ventures
-- Built AI-powered creative & growth systems  
-- Helping brands scale using automation + performance marketing  
+- Independent commerce venture using AI tools for content, research, and automation  
 
-### 🧪 QA Lead → QA Engineer
-- Strong foundation in testing, systems & analytics  
-- Now applied to marketing performance & optimization  
+### 🧪 QA Lead → QA Engineer (6+ years)
+- Strong foundation in testing, regression analysis, and defect lifecycle  
+- Now applied to **AI output evaluation and prompt regression testing**
 
 ---
 
-## 🎯 Ideal Clients
+## 🏆 Featured Projects
 
-- Shopify store owners  
-- D2C brands scaling with paid ads  
-- Agencies needing high-volume creatives  
-- Founders who want **systems, not just freelancers**  
+- 📑 **GSTR-1 PRO** — India GST filing desktop app, built with chartered accountants
+- 🇺🇸 **US Tax Pro System (Phase 1)** — Sales Tax + 1099 filing, built with a practicing US CPA
+- 💰 **Vyaktigat Khata** — privacy-first personal accounting software (offline, one-click launcher)
+- 🤝 **Meeting Intelligence Agent** — lablab.ai AI Agent Olympics hackathon, shipped in 48 hours
+- 📞 **Olivia & Claira** — AI voice cold-calling agents on VAPI with IVR detection and human-like tone
+- 🎯 **Internal Lead Generation System** — AI-powered US business lead tool feeding VAPI workflows
+
+---
+
+## 🎯 Ideal Collaborations
+
+- Founders building **AI-powered products** who need a builder, not just an advisor
+- Domain experts (CAs, CPAs, doctors, lawyers) wanting to **digitize their workflows with AI**
+- Companies needing **AI voice agents** for sales, support, or qualification
+- Mercor-style **AI training and evaluation** project engagements
 
 ---
 
 ## 📊 Core Skills
 
-- Meta Ads Strategy & Creative  
-- Performance Marketing  
-- AI Creative Production  
-- Conversion Optimization  
-- Product Research & Positioning  
-- eCommerce Growth Systems  
+- AI Product Design & Delivery  
+- Prompt Engineering & System Design  
+- Voice AI Agent Development (VAPI)  
+- Conversational AI & LLM Applications  
+- AI Workflow Automation  
+- Domain Software Development  
+- AI Output Evaluation & Regression Testing  
 
 ---
 
 ## 📜 Certifications
 
-- ISTQB® Foundation Level  
-- ChatGPT Prompt Engineering  
-- Practical Multi AI Agents & Advanced Use Cases  
+- **AI Generalist Certification** — Growth School  
+- **ISTQB® Certified Tester** — Foundation Level (CTFL)  
+- **lablab.ai AI Agent Olympics Participant** — May 2026  
 
 ---
 
 ## 🤝 Why Work With Me
 
-- ⚡ Fast execution (24–48h creatives)
-- 🧠 Systems thinker (not just editor)
-- 📊 Data-driven decisions
-- 🔁 Built for scale (high-volume output)
-- 💬 Clear communication
+- ⚡ **Fast execution** — hackathon-grade builds in 48-hour windows  
+- 🧠 **Product thinker** — I solve real problems, not invent imaginary ones  
+- 🤝 **Domain-expert collaborator** — I never build without talking to the people who'll use it  
+- 🔁 **Ship-and-iterate mindset** — perfect is the enemy of shipped  
+- 💬 **Clear, direct communication** — no AI jargon, no hype  
 
 ---
 
-## 📩 Let’s Work
+## 📩 Let's Build
 
 If you want:
 
-✔ Ads that actually convert  
-✔ Systems that scale  
-✔ Someone who understands both tech + marketing  
+✔ AI products that **actually ship** and **actually work**  
+✔ Someone who understands both **AI capabilities and real business workflows**  
+✔ A collaborator who treats AI as a **delivery tool, not a buzzword**  
 
-👉 Let’s build something that grows.
+👉 Let's build something real.
 
 ---
 
-⭐ *I don’t just run ads — I build engines that drive revenue.*
+⭐ *I don't just experiment with AI — I ship products people actually use.*
